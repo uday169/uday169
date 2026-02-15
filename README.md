@@ -50,12 +50,12 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday169&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday169&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uday169&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=uday169&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday169&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday169&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&count_private=true" alt="Top Languages" height="170"/>
 </div>
 
 ---
