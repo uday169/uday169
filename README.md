@@ -75,7 +75,6 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday_Pratap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-pratap)
 [![GitHub](https://img.shields.io/badge/GitHub-uday169-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uday169)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uday169@example.com)
 
 </div>
 
