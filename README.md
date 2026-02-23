@@ -50,12 +50,18 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uday169&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=uday169&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/uday169" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=uday169&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/uday169" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=uday169&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="170"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uday169&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&count_private=true&cache_seconds=86400" alt="Top Languages" height="170"/>
+  <a href="https://github.com/uday169" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday169&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&count_private=true&cache_seconds=86400" alt="Top Languages" height="170"/>
+  </a>
 </div>
 
 ---
