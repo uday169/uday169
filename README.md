@@ -48,4 +48,4 @@ Build software that feels simple on the surface and intelligent underneath.
 
 ---
 
-> *"Building the future, one reliable release at a time."*
+> *"Building the future, one reliable commit at a time."*
